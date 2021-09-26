@@ -1,0 +1,27 @@
+ <!DOCTYPE html>
+  <html>
+   <title>dino <33</title>
+    <center>
+<div>
+<! --- background --->
+  <style>
+body {
+  background-image: url('https://t3.ftcdn.net/jpg/02/24/52/56/360_F_224525610_ZnjCoxC9x42EJX4Ki2LMGXf5TKboqJyF.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
+<! --- icon --->
+ <img src="https://images.vexels.com/media/users/3/196664/isolated/preview/95710c528274a4c723b8909043209e78-cute-dinosaur-cute-standing.png" style="width:300px;height:300px;">
+<! --- dino --->
+<h1 style="color: #0d0d3d;"> dinosaur </h1> 
+  <p style="color: #0d0d3d;"> it's a dinosaur page </p>
+<img src="https://images.vexels.com/media/users/3/196998/isolated/preview/3421fa2cd778f85dfc33c72728b57d1e-tyrannosaurus-dino-cute.png" style="width:300px;height:300px;">
+<div>
+<div>
+<! --- blinkie ---> 
+  <a href="dino two.html" target="_blank">
+    <img src="https://www.commentslive.com/myblinkie/create/done/02/b8976d7f7f5358d87b670135c0ada305.gif">
+   </center>
+ </html>
